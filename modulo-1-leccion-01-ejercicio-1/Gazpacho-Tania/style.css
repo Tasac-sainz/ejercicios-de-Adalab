@@ -1,0 +1,19 @@
+header {background-image: url(.img-gazpacho); background-repeat: repeat;}
+.img-gazpacho
+    {border-radius: 10%; border-style:double; border-color:rgb(22, 39, 192); width:300px; height:200px; }
+
+body {background-color: #f7ecad;}
+h1 
+    {font-family:Verdana, Geneva, Tahoma, sans-serif; color: red; font-size: 30pt; 
+        text-align: center;
+    }
+main 
+    {font-family: sans-serif;font-size: 14pt;text-align: justify;}
+
+.final
+   {font-family: Verdana; font-size: 16pt; color: rgb(78, 4, 4);
+    text-align: center;}
+
+footer
+ {font-size: 10pt; color: white; background-color: black;}
+
