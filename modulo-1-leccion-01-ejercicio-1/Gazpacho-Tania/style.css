@@ -1,4 +1,5 @@
-header {background-image: url(.img-gazpacho); background-repeat: repeat;}
+header {background-image: url(.img-gazpacho); background-repeat: repeat;} /* no he conseguido ni repetir la imagen en el
+                                                                            header ni que saliera centrada */
 .img-gazpacho
     {border-radius: 10%; border-style:double; border-color:rgb(22, 39, 192); width:300px; height:200px; }
 
